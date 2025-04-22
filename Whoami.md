@@ -18,7 +18,7 @@ Hi there 👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Li
 
   OSCP by 2026
 
-  CCSK & Blue Team Level 1 (BTL1) in 2026
+  CCSK & AWS Certified Security Specialty (SCS-C02) in 2026
 
   HSK 5 Mandarin by 2027
 
