@@ -6,7 +6,7 @@ Hi there 👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Li
 
 🎯 Preparing for PNPT (TCM) — target: June 1st
 
-🎯 Preparing for CySA+ — target: July 1st
+🎯 Preparing for CompTIA CySA+ — target: July 1st
 
 💻 Hands-on experience with Kali Linux, CTF-style pentesting, and personal lab setup
 
