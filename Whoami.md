@@ -10,7 +10,7 @@ Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lit
 
 💻 Hands-on experience with Kali Linux, CTF-style pentesting, and personal lab setup
 
-🐍 2 years experience with Python (ITFightClub Lv1 & Lv2 certs) + basic C++
+🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs) + basic C++
 
 👨‍💻 Interning at Nord Security this summer 👀
 
