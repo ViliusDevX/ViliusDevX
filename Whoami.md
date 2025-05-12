@@ -20,7 +20,7 @@ Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lit
 
   CCSK & AWS Certified Security Specialty (SCS-C02) in 2026
 
-  HSK 5 Mandarin by 2027
+  HSK 5 Mandarin by 2028
 
 
 “***I’m not just young. I’m way ahead.***” 😉
