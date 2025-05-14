@@ -4,7 +4,7 @@ Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lit
 
 🧠 Certified in Fundamentals of IT System Security (Vilnius Coding School)
 
-🎯 Preparing for PNPT (TCM) — target: June 16th
+🎯 Preparing for PNPT (TCM) — target: June 20th
 
 🎯 Preparing for CompTIA CySA+ — target: July 1st
 
