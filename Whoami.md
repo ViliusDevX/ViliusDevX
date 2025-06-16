@@ -4,13 +4,13 @@ Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lit
 
 🧠 Certified in Fundamentals of IT System Security (Vilnius Coding School)
 
-🎯 Preparing for PNPT (TCM) — target: June 20th
+🎯 Preparing for CompTIA CySA+ — target: July 28th
 
-🎯 Preparing for CompTIA CySA+ — target: July 1st
+🎯 Preparing for PNPT (TCM) — target: September 1st
 
-💻 Hands-on experience with Kali Linux, CTF-style pentesting, and personal lab setup
+💻 Hands-on experience with Kali Linux, CTF-style pentesting and personal Windows domain controller setup
 
-🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs) + basic C++
+🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs), basic C++ knowledge
 
 👨‍💻 Interning at Nord Security this summer 👀
 
