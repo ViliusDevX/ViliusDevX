@@ -1,4 +1,4 @@
-Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2021.
+Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2020.
 
 🛡️ CompTIA Security+ certified
 
