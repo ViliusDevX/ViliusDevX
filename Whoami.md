@@ -16,7 +16,7 @@ Hi there👋 I'm a 16-year-old aspiring Jr. Penetration Tester from Vilnius, Lit
 
 ⌛ Massive goals ahead:
 
-  OSCP by 2026
+  OSCP by 2025
 
   CCSK & AWS Certified Security Specialty (SCS-C02) in 2026
 
