@@ -1,4 +1,4 @@
-Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2020.
+Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2021.
 
 🛡️ CompTIA Security+ certified
 
