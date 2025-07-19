@@ -1,4 +1,4 @@
-Hi there👋 I'm a 16-year-old aspiring Cybersecurity Enthusiast from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2020.
+Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2020.
 
 🛡️ CompTIA Security+ certified
 
@@ -12,11 +12,7 @@ Hi there👋 I'm a 16-year-old aspiring Cybersecurity Enthusiast from Vilnius, L
 
 🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs), basic C++ knowledge
 
-👨‍💻 Interning at Nord Security this summer 👀
-
 ⌛ Massive goals ahead:
-
-  OSCP by 2026
 
   CCSK & AWS Certified Security Specialty (SCS-C02) in 2026
 
