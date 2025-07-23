@@ -6,7 +6,7 @@ Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, L
 
 🎯 Preparing for CompTIA CySA+ — target: August 17th
 
-🎯 Preparing for PNPT (TCM) — target: October 28th
+🎯 Preparing for PNPT (TCM) — target: October 29th
 
 💻 Hands-on experience with Kali Linux, CTF-style pentesting and personal Windows domain controller setup
 
