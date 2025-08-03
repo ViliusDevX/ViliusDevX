@@ -12,12 +12,6 @@ Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, L
 
 🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs), basic C++ knowledge
 
-⌛ Future goals:
-
- AWS Certified Security Specialty (SCS-C02) in 2026
-
- HSK 5 Mandarin by 2028
-  
 
 
 “***I’m not just young. I’m way ahead.***” 😉
