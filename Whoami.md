@@ -4,7 +4,7 @@ Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, L
 
 🧠 Certified in Fundamentals of IT System Security (Vilnius Coding School)
 
-🎯 Preparing for CompTIA CySA+ — target: August 17th
+🎯 Preparing for CompTIA CySA+ — target: August 18th
 
 🎯 Preparing for PNPT (TCM) — target: October 29th
 
