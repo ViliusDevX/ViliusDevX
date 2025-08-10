@@ -1,17 +1,36 @@
-Hi there👋 I'm a 17-year-old aspiring Cybersecurity Enthusiast from Vilnius, Lithuania 🇱🇹 with a strong passion for cybersecurity since 2021.
+# 👋 Hello World!
 
-🛡️ CompTIA Security+ certified
+I’m a 17-year-old from Vilnius, Lithuania 🇱🇹 — passionate about both Cybersecurity and AI Safety.
+What began as a focus on CTF Pentesting in 2021 has grown into a mission to ensure AI is safe and aligned with human values.
 
-🧠 Certified in Fundamentals of IT System Security (Vilnius Coding School)
+## 🛡️ Cybersecurity Path
 
-🎯 Preparing for CompTIA CySA+ — target: August 18th
+    CompTIA Security+ certified
 
-🎯 Preparing for PNPT (TCM) — target: October 29th
+    Fundamentals of IT System Security – Vilnius Coding School
 
-💻 Hands-on experience with Kali Linux, CTF-style pentesting and personal Windows domain controller setup
+    Preparing for CompTIA CySA+ – target: Sep 24
 
-🐍 2 years experience with Python (ITFightClub Lvl 1 & Lvl 2 certs), basic C++ knowledge
+    Preparing for PNPT (TCM Security) – target: Nov 11
 
+    Hands-on with Kali Linux, CTF-style pentesting, and personal Windows Domain Controller lab setups
 
+## 🤖 AI Safety & Machine Learning
 
-“***I’m not just young. I’m way ahead.***” 😉
+    Exploring AI interpretability, transparency, and risk mitigation
+
+    Building small-scale token-level visualization tools for language models
+
+    Currently reading Christopher M. Bishop’s Pattern Recognition and Machine Learning to strengthen my statistical ML foundations
+
+    Following developments in AI safety research from both academic and open-source communities
+
+## 💻 Coding Skills
+
+    Python – 2+ years (ITFightClub Level 1 & 2 certifications)
+
+    Basic C++ knowledge
+
+    Comfortable in both scripting quick experiments and building reproducible research tools
+
+### Will AI be humanity’s *last invention*? That depends on ***You***. ⏳
