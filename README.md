@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Cybersecurity+Enthusiast;AI+Safety+Researcher;Pentester+%26+Developer" alt="Typing SVG" />
+</div>
+
+<br>
+
 # 🤙 What's up!
 
 <h3>I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹.</h3>
@@ -53,15 +59,28 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliusDevX&show_icons=true&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViliusDevX&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ViliusDevX&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical&langs_count=8)
+![Visitor Count](https://komarev.com/ghpvc/?username=ViliusDevX&color=blueviolet&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical)
+</div>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ViliusDevX/ViliusDevX/output/github-contribution-grid-snake-dark.svg" />
 
-### 🌱 Currently Learning
+### 🌱 Currently Deepening Expertise In
 
-**Web Pentesting • AD Lab Environments • ML & AI Safety • Python Tool Dev • Blue Teaming**
+<details>
+<summary><b>Click to see what I'm learning →</b></summary>
+<br>
+
+- **🔐 Offensive Security:** Advanced Web App Pentesting, AD Environment Exploitation
+- **🤖 AI Safety:** Model Interpretability, Adversarial Robustness, Alignment Research
+- **💻 Development:** Security Tools, Automation Scripts, ML Integration
+
+</details>
 
 ### 📫 Let's Connect
 
