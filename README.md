@@ -1,14 +1,13 @@
 # 🤙 What's up!
 
-I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹.
+### I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹.
 
-My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values.
+### My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values.
 
 ## 🛡️ Cybersecurity | 🤖 AI Safety | 💻 Development
 
 ### 🔧 Tech Stack & Tools
 
-**Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,13 +15,9 @@ My journey began with CTF pentesting in 2021 and has evolved into a mission to e
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Security Tools:**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -62,13 +57,15 @@ My journey began with CTF pentesting in 2021 and has evolved into a mission to e
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical)
 
+![Snake animation](https://github.com/ViliusDevX/ViliusDevX/blob/output/github-contribution-grid-snake.svg)
+
 ### 🌱 Currently Learning
 
 **Web Pentesting • AD Lab Environments • ML & AI Safety • Python Tool Dev • Blue Teaming**
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vilius-nikitinas-01381732a))
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]((https://tryhackme.com/p/ViliusDevX))
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)]((https://app.hackthebox.com/profile/1813221))
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.com/users/wilius))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilius-nikitinas-01381732a)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ViliusDevX)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1813221)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wilius)
