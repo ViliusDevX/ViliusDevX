@@ -10,9 +10,7 @@
 
 <h3>My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values.</h3>
 
-## 🛡️ Cybersecurity | 🤖 AI Safety | 💻 Development
-
-### 🔧 Tech Stack & Tools
+## 🔧 Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,7 +31,7 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
 <div align="center">
   
