@@ -57,7 +57,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ViliusDevX/ViliusDevX/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ViliusDevX/ViliusDevX/output/github-contribution-grid-snake-dark.svg" />
 
 ### 🌱 Currently Learning
 
