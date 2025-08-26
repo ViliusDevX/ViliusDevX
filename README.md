@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Cybersecurity+Enthusiast;AI+Safety+Researcher;Pentester+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Cybersecurity+Enthusiast;AI+Safety+Researcher;Pentester+%26+Developer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -59,12 +59,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViliusDevX&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ViliusDevX&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical&langs_count=8)
-![Visitor Count](https://komarev.com/ghpvc/?username=ViliusDevX&color=blueviolet&style=flat-square)
 
 </div>
 
