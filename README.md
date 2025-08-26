@@ -1,6 +1,7 @@
-# 👋 Hello World!
+# 🤙 What's up!
 
-I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹. My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values.
+| I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹. |
+| My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values. |
 
 ## 🛡️ Cybersecurity | 🤖 AI Safety | 💻 Development
 
@@ -33,18 +34,15 @@ I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | [![CompTIA Security+](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/CompTIA%20Security%2B%20ce%20Certification.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/CompTIA%20Security%2B%20ce%20Certification.jpg) <br> **CompTIA Security+** | [![External Pentest Playbook](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/External%20Pentest%20Playbook.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/External%20Pentest%20Playbook.jpg) <br> **External Pentest Playbook** | [![OSINT Fundamentals](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg) <br> **OSINT Fundamentals** |
-| *Click to view* | *Click to view* | *Click to view* |
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | [![Practical Ethical Hacking](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Practical%20Ethical%20Hacking.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Practical%20Ethical%20Hacking.jpg) <br> **Practical Ethical Hacking** | [![Linux PrivEsc](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Linux%20Privilege%20Escalation.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Linux%20Privilege%20Escalation.jpg) <br> **Linux Privilege Escalation** | [![Windows PrivEsc](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Windows%20Privilege%20Escalation.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Windows%20Privilege%20Escalation.jpg) <br> **Windows Privilege Escalation** |
-| *Click to view* | *Click to view* | *Click to view* |
 
 ### Programming & IT Foundations
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | [![IT System Security](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Fundamentals%20of%20IT%20system%20security.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Fundamentals%20of%20IT%20system%20security.jpg) <br> **IT System Security** | [![Python Level 1](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(1%20Lygis).jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(1%20Lygis).jpg) <br> **Python Level 1** | [![Python Level 2](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(2%20Lygis).jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(2%20Lygis).jpg) <br> **Python Level 2** |
-| *Click to view* | *Click to view* | *Click to view* |
 
 </div>
 
@@ -60,4 +58,8 @@ I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania
 
 ### 🌱 Currently Learning
 
-Web Application Penetration Testing • Active Directory Lab Environments • Machine Learning Fundamentals & AI Safety • Python Security Tool Development • SOC Analysis Techniques • OSINT Frameworks • SQL for Security Data
+• **Web Pentesting** 
+• **AD Lab Environments** 
+• **ML & AI Safety** 
+• **Python Tool Dev** 
+• **Blue teaming** 
