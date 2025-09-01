@@ -59,8 +59,6 @@
 
 <div align="left">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViliusDevX&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ViliusDevX&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical&langs_count=8)
@@ -85,5 +83,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilius-nikitinas-01381732a)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ViliusDevX)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1813221)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wilius)
