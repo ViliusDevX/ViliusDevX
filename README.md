@@ -59,8 +59,6 @@
 
 <div align="left">
   
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ViliusDevX&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical&langs_count=8)
 
 </div>
