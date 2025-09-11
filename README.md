@@ -8,8 +8,6 @@
 
 <h3>I'm a 17-year-old cybersecurity and AI safety enthusiast from Vilnius, Lithuania 🇱🇹.</h3>
 
-<h3>My journey began with CTF pentesting in 2021 and has evolved into a mission to ensure AI is safe and aligned with human values.</h3>
-
 ## 🔧 Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
