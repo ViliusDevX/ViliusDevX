@@ -6,7 +6,7 @@
 
 # 🤙 What's up!
 
-<h3>I'm a 17-year-old cybersecurity enthusiast and Backend developer from Vilnius, Lithuania 🇱🇹.</h3>
+<h3>I'm a 17-year-old cybersecurity enthusiast and developer from Vilnius, Lithuania 🇱🇹.</h3>
 
 ## 🔧 Tools I Use
 
