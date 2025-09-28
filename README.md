@@ -69,9 +69,8 @@
 <summary><b>Click to see what I'm learning →</b></summary>
 <br>
 
-- **🔐 Offensive Security:** Advanced Web App Pentesting, AD Environment Exploitation
-- **🤖 AI Safety:** Model Interpretability, Adversarial Robustness, Alignment Research
-- **💻 Development:** Security Tools, Automation Scripts, ML Integration
+- **🔐 Offensive Security:** Lab Pentesting, Custom Scripts
+- **💻 Development:** Security Tools, Automation Scripts, Frontend
 
 </details>
 
