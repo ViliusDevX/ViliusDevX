@@ -50,8 +50,8 @@
 </div>
 
 **In Progress:**
-- CompTIA CySA+ (Target: December 2025)
-- PNPT - Practical Network Penetration Tester (Target: January 2026)
+- CompTIA CySA+ (Target: March 2026)
+- PNPT - Practical Network Penetration Tester (Target: June 2026)
 
 ### 📊 GitHub Stats
 
