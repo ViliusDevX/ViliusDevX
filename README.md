@@ -1,80 +1,80 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Cybersecurity+Enthusiast;Pentester+%26+Developer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Cybersecurity+%7C+Offensive+Security;Secure+Systems+%7C+Automation" />
+
 </div>
 
-<br>
+---
 
-# 🤙 What's up!
+# Vilius  
+**Cybersecurity student · Pentesting · Secure software**
 
-<h3>I'm a 17-year-old cybersecurity enthusiast and developer from Vilnius, Lithuania 🇱🇹.</h3>
+I’m a cybersecurity-focused developer from **Vilnius, Lithuania 🇱🇹**, working at the intersection of  
+**offensive security, backend systems, and automation**.
 
-## 🔧 Tools I Use
+I enjoy understanding how systems work — and how to make them more resilient.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+---
+
+## 🛡️ Focus Areas
+
+- **Offensive Security** – network & web application testing, bug bounties  
+- **Secure Development** – Python tools, backend & frontend services, automation  
+- **Networking & OS Internals** – Linux, Windows, Active Directory hardening  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python · JavaScript · C++ · HTML · CSS  
+
+**Security & OS**
+- Kali Linux · Nmap · Metasploit · Burp Suite  
+- Wireshark · Hashcat · John the Ripper · Aircrack-ng  
+
+**Frameworks & Data**
+- Flask · PostgreSQL · MySQL · SQLite · PyTorch  
+
+---
 
 ## 📜 Certifications
 
-<div align="center">
-  
-### Cybersecurity Certifications
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| [![CompTIA Security+](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/CompTIA%20Security%2B%20ce%20Certification.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/CompTIA%20Security%2B%20ce%20Certification.jpg) <br> **CompTIA Security+** | [![External Pentest Playbook](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/External%20Pentest%20Playbook.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/External%20Pentest%20Playbook.jpg) <br> **External Pentest Playbook** | [![OSINT Fundamentals](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg) <br> **OSINT Fundamentals** |
+**Cybersecurity**
+- CompTIA **Security+**
+- Practical Ethical Hacking  
+- Linux Privilege Escalation  
+- Windows Privilege Escalation  
+- External Pentest Playbook  
+- OSINT Fundamentals  
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| [![Practical Ethical Hacking](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Practical%20Ethical%20Hacking.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Practical%20Ethical%20Hacking.jpg) <br> **Practical Ethical Hacking** | [![Linux PrivEsc](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Linux%20Privilege%20Escalation.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Linux%20Privilege%20Escalation.jpg) <br> **Linux Privilege Escalation** | [![Windows PrivEsc](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Windows%20Privilege%20Escalation.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Windows%20Privilege%20Escalation.jpg) <br> **Windows Privilege Escalation** |
+**Foundations**
+- IT System Security  
+- Python Level 1 & 2  
 
-### Programming & IT Foundations
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| [![IT System Security](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Fundamentals%20of%20IT%20system%20security.jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Fundamentals%20of%20IT%20system%20security.jpg) <br> **IT System Security** | [![Python Level 1](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(1%20Lygis).jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(1%20Lygis).jpg) <br> **Python Level 1** | [![Python Level 2](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(2%20Lygis).jpg)](https://github.com/ViliusDevX/ViliusDevX/raw/main/certificates/Python%20Kursas%20(2%20Lygis).jpg) <br> **Python Level 2** |
+**Currently in progress**
+- **CompTIA CySA+** (target: March 2026)  
+- **PNPT – Practical Network Penetration Tester** (target: June 2026)
 
-</div>
+---
 
-**In Progress:**
-- CompTIA CySA+ (Target: March 2026)
-- PNPT - Practical Network Penetration Tester (Target: June 2026)
+## 📊 GitHub Activity
 
-### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=github_dark)
 
-<div align="left">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliusDevX&layout=compact&theme=radical&langs_count=8)
+<img src="https://raw.githubusercontent.com/ViliusDevX/ViliusDevX/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
+---
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ViliusDevX/ViliusDevX/output/github-contribution-grid-snake-dark.svg" />
+## 🌱 What I’m Working On
 
-### 🌱 Currently Deepening Expertise In
+- Building **custom pentesting & OSINT tools**
+- Writing **automation scripts** for security workflows
+- Improving **backend & API security**
 
-<details>
-<summary><b>Click to see what I'm learning →</b></summary>
-<br>
+---
 
-- **🔐 Offensive Security:** Lab Pentesting, Custom Scripts
-- **💻 Development:** Security Tools, Automation Scripts, Frontend
+## 📫 Connect
 
-</details>
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilius-nikitinas-01381732a)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wilius)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilius-nikitinas-01381732a)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/wilius)
