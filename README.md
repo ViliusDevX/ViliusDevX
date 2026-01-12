@@ -13,10 +13,12 @@ I study cybersecurity with a strong focus on how systems are attacked and defend
 
 I’m currently preparing for **CompTIA CySA+**, building on my **Security+** certification.  
 
-My main focus areas right now are
-MITRE ATT&CK  
-Windows event logs  
-real-world incident and attack analysis  
+My main focus areas right now are:
+
+- MITRE ATT&CK  
+- Windows event logs  
+- Real-world incident and attack analysis  
+
 
 After CySA+, I plan to continue with **PNPT** to strengthen my penetration testing skills.
 
@@ -28,7 +30,7 @@ After CySA+, I plan to continue with **PNPT** to strengthen my penetration testi
 Python, JavaScript, HTML, CSS  
 
 **Systems**  
-Linux, Windows  
+Kali Linux, Windows  
 
 **Web & databases**  
 Flask, PostgreSQL, MySQL, SQLite  
@@ -41,10 +43,10 @@ Hashcat, John the Ripper, Aircrack-ng
 
 ## 📜 Certifications
 
-CompTIA Security+  
-Vilnius Coding School - Fundamentals of IT system security
-ITFightClub Python level 1 & 2
-TCM PNPT Course Material
+- CompTIA Security+  
+- Vilnius Coding School, Fundamentals of IT System Security  
+- ITFightClub, Python Level 1 & 2  
+- TCM, PNPT Course Material  
 
 **CompTIA CySA+** (target: March 2026)  
 **PNPT** (target: June 2026)  
