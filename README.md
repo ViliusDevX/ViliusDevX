@@ -15,9 +15,9 @@ I’m currently preparing for **CompTIA CySA+**, building on my **Security+** ce
 
 My main focus areas right now are:
 
-- MITRE ATT&CK  
+- STIX/TAXII 
 - Windows event logs  
-- Real-world incident and attack analysis  
+- AD & identity
 
 
 After CySA+, I plan to continue with **PNPT** to strengthen my penetration testing skills.
