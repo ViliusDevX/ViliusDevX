@@ -15,9 +15,9 @@ I’m currently preparing for **CompTIA CySA+**, building on my **Security+** ce
 
 My main focus areas right now are:
 
-- STIX/TAXII 
+- EDR / NDR / UEBA
 - Windows event logs  
-- AD & identity
+- SIEM / SOAR
 
 
 After CySA+, I plan to continue with **PNPT** to strengthen my penetration testing skills.
