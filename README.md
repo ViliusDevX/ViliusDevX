@@ -16,7 +16,7 @@ I’m currently preparing for **CompTIA CySA+**, building on my **Security+** ce
 My main focus areas right now are:
 
 - CySA+ PBQs
-- Identity compromise  
+- AD lab setup  
 - Incident response
 
 After CySA+, I plan to continue with **PNPT** to strengthen my penetration testing skills.
