@@ -47,8 +47,8 @@ Hashcat, John the Ripper, Aircrack-ng
 - ITFightClub, Python Level 1 & 2  
 - TCM, PNPT Course Material  
 
-**CompTIA CySA+** (target: March 2026)  
-**PNPT** (target: June 2026)  
+**CompTIA CySA+** (target: May 2026)  
+**PNPT** (target: 2026)  
 
 ---
 
