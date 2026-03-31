@@ -18,9 +18,7 @@ My main focus areas right now are:
 - CySA+ PBQs
 - AD lab setup  
 - Incident response
-
-After CySA+, I plan to continue with **PNPT** to strengthen my penetration testing skills.
-
+  
 ---
 
 ## 🧰 Tech I work with
@@ -48,7 +46,6 @@ Hashcat, John the Ripper, Aircrack-ng
 - TCM, PNPT Course Material  
 
 **CompTIA CySA+** (target: May 2026)  
-**PNPT** (target: 2026)  
 
 ---
 
