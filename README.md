@@ -16,25 +16,24 @@ I’m currently preparing for **CompTIA CySA+**, building on my **Security+** ce
 My main focus areas right now are:
 
 - CySA+ PBQs
-- AD lab setup  
-- Incident response
+- SOC journal project  
+- Doing additional scenarios in Purple Team Lab
   
 ---
 
 ## 🧰 Tech I work with
 
 **Languages**  
-Python, JavaScript, HTML, CSS  
+Python, JavaScript, HTML, CSS
 
 **Systems**  
-Kali Linux, Windows  
+Kali Linux, Windows, Active Directory, Domain Controller
 
 **Web & databases**  
-Flask, PostgreSQL, MySQL, SQLite  
+MySQL, PostgreSQL, React, Tailwind css
 
 **Security tooling**  
-Nmap, Burp Suite, Metasploit, Wireshark  
-Hashcat, John the Ripper, Aircrack-ng  
+Wazuh, pfSense, Nmap, Metasploit, Wireshark, Burp suite, etc.
 
 ---
 
@@ -45,7 +44,7 @@ Hashcat, John the Ripper, Aircrack-ng
 - ITFightClub, Python Level 1 & 2  
 - TCM, PNPT Course Material  
 
-**CompTIA CySA+** (target: May 2026)  
+**CompTIA CySA+** (target: Late June 2026)  
 
 ---
 
