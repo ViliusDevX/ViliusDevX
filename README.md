@@ -5,7 +5,7 @@
 # ViliusDevX  
 > 🛡️ SOC Analyst / Blue Team | 🐍 Python | 📍 Vilnius, Lithuania
 
-I study cybersecurity with a strong focus on how systems are attacked and defended. Most of my time goes into security research, Python scripting, understanding how operating systems and web applications behave in real environments.
+I study cybersecurity with a strong focus on how systems are attacked and defended. Most of my time goes into security research, log analysis, understanding how various systems and applications behave in real environments.
 
 ---
 
