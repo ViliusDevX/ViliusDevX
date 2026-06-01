@@ -67,7 +67,7 @@ Wazuh, pfSense, Nmap, Metasploit, Wireshark, Burp suite, etc.
 
 [![Windows Privilege Escalation](https://img.shields.io/badge/TCM-Windows%20Privilege%20Escalation-0078D4?style=for-the-badge&logo=windows&logoColor=white)](./certificates/Windows%20Privilege%20Escalation.jpg)
 
-[![OSINT Fundamentals](https://img.shields.io/badge/TCM-OSINT%20Fundamentals-6f42c1?style=for-the-badge)](.certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg))
+[![OSINT Fundamentals](https://img.shields.io/badge/TCM-OSINT%20Fundamentals-6f42c1?style=for-the-badge)](/certificates/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.jpg)
 
 ---
 
