@@ -43,7 +43,7 @@ Wazuh, pfSense, Nmap, Metasploit, Wireshark, Burp suite, etc.
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-ce3b3b?style=for-the-badge)](./certificates/CompTIA%20Security%2B%20ce%20Certification.jpg)
 
-**CompTIA CySA+** — Target: Late June 2026
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-2f6fed?style=for-the-badge)](./certificates/CompTIA%20CySA%2B%20ce%20Certification.jpg)
 
 ---
 
