@@ -11,11 +11,9 @@ I study cybersecurity with a strong focus on how systems are attacked and defend
 
 ## 🔍 Current focus
 
-I’m currently preparing for **CompTIA CySA+**, building on my **Security+** certification.  
-
 My main focus areas right now are:
 
-- CySA+ PBQs
+- SOC analyst skills practice
 - SOC journal project  
 - Doing additional scenarios in Purple Team Lab
   
