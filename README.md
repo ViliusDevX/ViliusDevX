@@ -39,7 +39,7 @@ Wazuh, pfSense, Nmap, Metasploit, Wireshark, Burp suite, etc.
 
 ### 🏆 Certifications
 
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-2f6fed?style=for-the-badge)](./certificates/CompTIA%20Security%2B%20ce%20Certification.jpg)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-2f6fed?style=for-the-badge)](./certificates/CompTIA%20CySA%2B%20certificate.png)
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-ce3b3b?style=for-the-badge)](./certificates/CompTIA%20Security%2B%20ce%20Certification.jpg)
 
