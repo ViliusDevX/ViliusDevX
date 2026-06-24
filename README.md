@@ -26,18 +26,23 @@ My main focus areas right now are:
 ## 🧰 Tech I work with
 
 **IT Support / Systems**
+
 -Windows Server, Active Directory fundamentals, Domain Controller, Group Policy, DNS, DHCP, troubleshooting, documentation
 
 **Security / Blue Team**
+
 -Wazuh, Sysmon, Windows Event Logs, SIEM monitoring, log analysis, phishing investigation, incident response reasoning, MITRE ATT&CK mapping
 
 **Networking**
+
 -pfSense, Kali Linux, Nmap, Wireshark, network scanning, various MITRE ATT&CK concepts
 
 **Programming / Automation**
+
 -Python, JavaScript, Node.js, React, HTML, CSS, JSON, APIs, automation scripts
 
 **Web & Databases**
+
 -React, Tailwind CSS, MySQL, PostgreSQL
 
 ---
