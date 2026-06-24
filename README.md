@@ -3,9 +3,13 @@
 </div>
 
 # ViliusDevX  
-> 🛡️ SOC Analyst / Blue Team | 🐍 Python | 📍 Vilnius, Lithuania
+> 🖥️ IT Support | 🛡️ SOC Analyst / Blue Team | 📍 Vilnius, Lithuania
 
-I study cybersecurity with a strong focus on how systems are attacked and defended. Most of my time goes into security research, log analysis, understanding how various systems and applications behave in real environments.
+I study cybersecurity with a strong focus on SOC analysis, blue team skills, log investigation, and how attacks are detected in real environments.
+
+My strongest side is cybersecurity, especially SOC-style thinking, SIEM alerts, Windows logs, phishing, malware behavior, Active Directory basics, and incident investigation.
+
+Right now, I am also steering more toward IT Support, Technical Support and Windows Business Central Support, where I can use my troubleshooting mindset, Windows knowledge, networking basics, documentation habits, and cybersecurity awareness.
 
 ---
 
@@ -13,25 +17,28 @@ I study cybersecurity with a strong focus on how systems are attacked and defend
 
 My main focus areas right now are:
 
-- SOC analyst skills practice
-- SOC journal project  
-- Doing additional scenarios in Purple Team Lab
+- Expanding my Purple Team Home Lab
+- Practicing Windows, Active Directory, Wazuh, Sysmon, pfSense, and Kali Linux scenarios
+- Building skills for IT Support, Technical Support, Application Support, and Junior SOC roles
   
 ---
 
 ## 🧰 Tech I work with
 
-**Languages**  
-Python, JavaScript, HTML, CSS
+**IT Support / Systems**
+Windows Server, Active Directory fundamentals, Domain Controller, Group Policy, DNS, DHCP, troubleshooting, documentation
 
-**Systems**  
-Kali Linux, Windows, Active Directory, Domain Controller
+**Security / Blue Team**
+Wazuh, Sysmon, Windows Event Logs, SIEM monitoring, log analysis, phishing investigation, incident response reasoning, MITRE ATT&CK mapping
 
-**Web & databases**  
-MySQL, PostgreSQL, React, Tailwind css
+**Networking**
+pfSense, Kali Linux, Nmap, Wireshark, network scanning, various MITRE ATT&CK concepts
 
-**Security tooling**  
-Wazuh, pfSense, Nmap, Metasploit, Wireshark, Burp suite, etc.
+**Programming / Automation**
+Python, JavaScript, Node.js, React, HTML, CSS, JSON, APIs, automation scripts
+
+**Web & Databases**
+React, Tailwind CSS, MySQL, PostgreSQL
 
 ---
 
