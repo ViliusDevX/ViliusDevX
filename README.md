@@ -5,8 +5,6 @@
 # ViliusDevX  
 > 🖥️ IT Support | 🛡️ SOC Analyst / Blue Team | 📍 Vilnius, Lithuania
 
-I study cybersecurity with a strong focus on SOC analysis, blue team skills, log investigation, and how attacks are detected in real environments.
-
 My strongest side is cybersecurity, especially SOC style thinking, SIEM alerts, Windows logs, phishing, malware behavior, Active Directory basics, and incident investigation.
 
 Right now, I am also steering more toward IT Support, Technical Support and Windows Business Central Support, where I can use my troubleshooting mindset, Windows knowledge, networking basics, documentation habits, and cybersecurity awareness.
@@ -14,8 +12,6 @@ Right now, I am also steering more toward IT Support, Technical Support and Wind
 ---
 
 ## 🔍 Current focus
-
-My main focus areas right now are:
 
 - Expanding my Purple Team Home Lab
 - Practicing Windows, Active Directory, Wazuh, Sysmon, pfSense, and Kali Linux scenarios
