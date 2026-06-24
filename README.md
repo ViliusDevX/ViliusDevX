@@ -7,7 +7,7 @@
 
 I study cybersecurity with a strong focus on SOC analysis, blue team skills, log investigation, and how attacks are detected in real environments.
 
-My strongest side is cybersecurity, especially SOC-style thinking, SIEM alerts, Windows logs, phishing, malware behavior, Active Directory basics, and incident investigation.
+My strongest side is cybersecurity, especially SOC style thinking, SIEM alerts, Windows logs, phishing, malware behavior, Active Directory basics, and incident investigation.
 
 Right now, I am also steering more toward IT Support, Technical Support and Windows Business Central Support, where I can use my troubleshooting mindset, Windows knowledge, networking basics, documentation habits, and cybersecurity awareness.
 
@@ -26,19 +26,19 @@ My main focus areas right now are:
 ## 🧰 Tech I work with
 
 **IT Support / Systems**
-Windows Server, Active Directory fundamentals, Domain Controller, Group Policy, DNS, DHCP, troubleshooting, documentation
+-Windows Server, Active Directory fundamentals, Domain Controller, Group Policy, DNS, DHCP, troubleshooting, documentation
 
 **Security / Blue Team**
-Wazuh, Sysmon, Windows Event Logs, SIEM monitoring, log analysis, phishing investigation, incident response reasoning, MITRE ATT&CK mapping
+-Wazuh, Sysmon, Windows Event Logs, SIEM monitoring, log analysis, phishing investigation, incident response reasoning, MITRE ATT&CK mapping
 
 **Networking**
-pfSense, Kali Linux, Nmap, Wireshark, network scanning, various MITRE ATT&CK concepts
+-pfSense, Kali Linux, Nmap, Wireshark, network scanning, various MITRE ATT&CK concepts
 
 **Programming / Automation**
-Python, JavaScript, Node.js, React, HTML, CSS, JSON, APIs, automation scripts
+-Python, JavaScript, Node.js, React, HTML, CSS, JSON, APIs, automation scripts
 
 **Web & Databases**
-React, Tailwind CSS, MySQL, PostgreSQL
+-React, Tailwind CSS, MySQL, PostgreSQL
 
 ---
 
