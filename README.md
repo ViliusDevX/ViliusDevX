@@ -20,7 +20,7 @@ Right now, I am using that background to build practical IT Support, Helpdesk, T
   
 ---
 
-## 🧰 Tech I Work With
+## 🧰 Skills
 
 ### IT Support / Windows
 
