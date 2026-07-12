@@ -3,43 +3,67 @@
 </div>
 
 # ViliusDevX  
-> 🖥️ IT Support | 🛡️ SOC Analyst / Blue Team | 📍 Vilnius, Lithuania
+> 🖥️ IT Support / Helpdesk | 🛡️ Jr. SOC Analyst intern | 📍 Vilnius, Lithuania
 
-My strongest side is cybersecurity, especially SOC style thinking, SIEM alerts, Windows logs, phishing, malware behavior, Active Directory basics, and incident investigation.
+I am an IT and cybersecurity student focused on junior IT support, Windows troubleshooting, Active Directory fundamentals, DNS/DHCP, Group Policy basics, documentation, and security-aware troubleshooting.
 
-Right now, I am also steering more toward IT Support, Technical Support and Windows Business Central Support, where I can use my troubleshooting mindset, Windows knowledge, networking basics, documentation habits, and cybersecurity awareness.
+My strongest background is cybersecurity, especially SOC-style thinking, Windows logs, SIEM alerts, phishing, malware behavior, and incident investigation. 
+Right now, I am using that background to build practical IT Support, Helpdesk, Technical Support, and infrastructure troubleshooting skills.
 
 ---
 
-## 🔍 Current focus
+## 🔍 Current Focus
 
-- Expanding my Purple Team Home Lab
-- Practicing Windows, Active Directory, Wazuh, Sysmon, pfSense, and Kali Linux scenarios
-- Building skills for IT Support, Technical Support, Application Support, and Junior SOC roles
+- Practicing Microsoft Applied Skills: Administer Active Directory Domain Services
+- Building realistic IT Support scenarios in a Windows domain lab
+- Documenting tickets, investigations, root causes, fixes, validation evidence, screenshots, and user communication
   
 ---
 
-## 🧰 Tech I work with
+## 🧰 Tech I Work With
 
-**IT Support / Systems**
+### IT Support / Windows
 
--Windows Server, Active Directory fundamentals, Domain Controller, Group Policy, DNS, DHCP, troubleshooting, documentation
+- Windows troubleshooting
+- Windows Server fundamentals
+- Active Directory users, groups, and OUs
+- Group Policy basics
+- DNS and DHCP troubleshooting
+- SMB shares and NTFS/share permissions
+- Event Viewer
+- Ticket-style documentation
 
-**Security / Blue Team**
+### Security / Blue Team
 
--Wazuh, Sysmon, Windows Event Logs, SIEM monitoring, log analysis, phishing investigation, incident response reasoning, MITRE ATT&CK mapping
+- Wazuh
+- Sysmon
+- Windows Event Logs
+- SIEM monitoring basics
+- Log analysis
+- Phishing investigation
+- Incident response reasoning
+- MITRE ATT&CK fundamentals
 
-**Networking**
+### Networking / Lab Tools
 
--pfSense, Kali Linux, Nmap, Wireshark, network scanning, various MITRE ATT&CK concepts
+- pfSense
+- VirtualBox
+- Kali Linux
+- Nmap
+- Wireshark
+- Basic firewall and segmentation concepts
 
-**Programming / Automation**
+### Programming / Web
 
--Python, JavaScript, Node.js, React, HTML, CSS, JSON, APIs, automation scripts
-
-**Web & Databases**
-
--React, Tailwind CSS, MySQL, PostgreSQL
+- Python
+- JavaScript
+- React
+- Vite
+- HTML / CSS
+- JSON
+- APIs
+- Git / GitHub
+- Vercel
 
 ---
 
