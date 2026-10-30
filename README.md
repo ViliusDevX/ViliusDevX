@@ -6,10 +6,6 @@
 
 > 🛡️ Junior SOC / Cybersecurity | 🖥️ Windows & Active Directory | CompTIA CySA+ & Security+ | IT Support foundations
 
----
-
-# About Me
-
 I am an IT and cybersecurity student focused on junior SOC, security operations, and entry-level cybersecurity roles.
 
 I hold **CompTIA CySA+ and Security+** and have built practical experience through Windows/Active Directory labs, SOC investigation scenarios, SIEM monitoring, network analysis, security-focused troubleshooting, and a hands-on IT internship.
