@@ -3,67 +3,103 @@
 </div>
 
 # ViliusDevX  
-> 🖥️ IT Support / Helpdesk | 🛡️ Jr. SOC Analyst intern | 📍 Vilnius, Lithuania
 
-I am an IT and cybersecurity student focused on junior IT support, Windows troubleshooting, Active Directory fundamentals, DNS/DHCP, Group Policy basics, documentation, and security-aware troubleshooting.
-
-My strongest background is cybersecurity, especially SOC-style thinking, Windows logs, SIEM alerts, phishing, malware behavior, and incident investigation. 
-Right now, I am using that background to build practical IT Support, Helpdesk, Technical Support, and infrastructure troubleshooting skills.
+> 🛡️ Junior SOC / Cybersecurity | 🖥️ Windows & Active Directory | CompTIA CySA+ & Security+ | IT Support foundations
 
 ---
+
+# About Me
+
+I am an IT and cybersecurity student focused on junior SOC, security operations, and entry-level cybersecurity roles.
+
+I hold **CompTIA CySA+ and Security+** and have built practical experience through Windows/Active Directory labs, SOC investigation scenarios, SIEM monitoring, network analysis, security-focused troubleshooting, and a hands-on IT internship.
+
+My strongest areas are **SOC-style investigation, Windows security, log analysis, Active Directory, SIEM fundamentals, network troubleshooting, and structured technical reasoning**.
+
+I also have practical IT support experience deploying Windows endpoints, joining devices to corporate domains, migrating user data, troubleshooting software and patch-management behavior, and working with enterprise monitoring tools.
 
 ## 🔍 Current Focus
 
-- Practicing Microsoft Applied Skills: Administer Active Directory Domain Services
-- Building realistic IT Support scenarios in a Windows domain lab
-- Documenting tickets, investigations, root causes, fixes, validation evidence, screenshots, and user communication
-  
----
+- Practicing Microsoft Applied Skills: Administer Active Directory Domain Services (Target: early February 2027)
 
-## 🧰 Skills
-
-### IT Support / Windows
-
-- Windows troubleshooting
-- Windows Server fundamentals
-- Active Directory users, groups, and OUs
-- Group Policy basics
-- DNS and DHCP troubleshooting
-- SMB shares and NTFS/share permissions
-- Event Viewer
-- Ticket-style documentation
-
-### Security / Blue Team
+## 🛡️ Security / Blue Team
 
 - Wazuh
 - Sysmon
 - Windows Event Logs
-- SIEM monitoring basics
-- Log analysis
+- ESET PROTECT
+- SOC investigation and alert-triage practice
 - Phishing investigation
-- Incident response reasoning
-- MITRE ATT&CK fundamentals
+- Incident-response reasoning
+- MITRE ATT&CK mapping
+- Authentication and account-lockout investigation
+- VirusTotal
+- urlscan.io
+- WHOIS
 
-### Networking / Lab Tools
+## 🖥️ Windows / Identity / IT
+
+- Windows troubleshooting
+- Windows Server fundamentals
+- Active Directory users, groups, computers, and OUs
+- Group Policy
+- DNS and DHCP
+- SMB / NTFS permissions
+- Event Viewer
+- WinRM / PowerShell remoting fundamentals
+- Endpoint deployment and domain joining
+- Technical documentation
+
+## 🌐 Networking / Investigation
+
+- Wireshark
+- Nmap
+- pfSense
+- Kali Linux
+- Packet capture and traffic analysis
+- Ports and services
+- Basic firewall and network-segmentation concepts
+- DNS troubleshooting
+
+## 🧪 Main Projects
+
+### IT & Security Lab
+
+Long-term cybersecurity and IT portfolio containing:
+
+- 185 CySA+ / SOC practice questions
+- 22 SOC investigation scenarios
+- 30 interactive Security Lab scenarios
+- 124 Security Lab questions
+- 8 completed IT support investigations
+
+The Security Lab covers areas including cloud/identity, malware behavior, DNS/C2, lateral movement, web compromise, insider threat/DLP, ransomware, vulnerability management, SOC operations, and Linux security.
+
+### Purple Team Home Lab
+
+VirtualBox-based enterprise-style Windows environment containing:
 
 - pfSense
-- VirtualBox
+- Windows Server / Active Directory
+- Windows 11 domain client
+- Wazuh
+- Sysmon
 - Kali Linux
-- Nmap
-- Wireshark
-- Basic firewall and segmentation concepts
 
-### Programming / Web
+Completed scenarios include password spraying/account lockout investigation and LLMNR/NBT-NS poisoning, with detection, investigation, hardening, and validation.
 
-- Python
-- JavaScript
-- React
-- Vite
-- HTML / CSS
-- JSON
-- APIs
-- Git / GitHub
-- Vercel
+### IT Support Scenarios
+
+Ticket-style Windows and Active Directory investigations covering Group Policy, SMB/NTFS permissions, account lockouts, DNS, Wazuh agent failures, WinRM, DHCP/APIPA, and software-installation permissions.
+
+Each investigation documents the issue, evidence collection, root cause, fix, validation, and final communication.
+
+
+## 🎯 Career Direction
+
+I am looking for a **full-time junior SOC, cybersecurity analyst, security operations, or other entry-level technical security role**.
+
+I am particularly interested in environments where I can combine cybersecurity investigation with strong Windows, Active Directory, networking, and general IT foundations.
 
 ---
 
